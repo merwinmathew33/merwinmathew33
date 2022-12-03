@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **docker,github actions,markdown**
 
-- 📝 I regularly write articles on [https://merwin.hashnode.dev/](https://merwin.hashnode.dev/)
+- 📝 I regularly write articles on [https://merwin.dev.com/](https://merwin.hashnode.dev/)
 
 - 💬 Ask me about **sql,data structures**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/merwin.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="merwin.hashnode.dev" height="30" width="40" /></a>
+<a href="https://dev.to/merwin.dev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="merwin.hashnode.dev" height="30" width="40" /></a>
 <a href="https://hashnode.com/merwin mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="merwin mathew" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@merwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@merwin" height="30" width="40" /></a>
 </p>
