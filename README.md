@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MERWIN MATHEW</h1>
-<h3 align="center">A passionate devops from India</h3>
+<h3 align="center">An Engineering student with a passion for computer science and DevOps. I used to write blog to share my knowledge and experiences with others who are just as passionate as I am about these subjects. I am committed to simplifying complex topics and presenting them in a way that's easy for anyone to understand. My blog is dedicated to the fundamentals of computer science, the latest DevOps tools, and techniques. I share my real-world experiences with various technologies, software, and hardware that I have worked with.
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merwinmathew33&label=Profile%20views&color=0e75b6&style=flat" alt="merwinmathew33" /> </p>
 
