@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm MERWIN MATHEW</h1>
-<h3 align="center">An Engineering student with a passion for computer science and DevOps. I used to write blog to share my knowledge and experiences with others who are just as passionate as I am about these subjects. I am committed to simplifying complex topics and presenting them in a way that's easy for anyone to understand. My blog is dedicated to the fundamentals of computer science, the latest DevOps tools, and techniques. I share my real-world experiences with various technologies, software, and hardware that I have worked with.
+<h3 align="center">I am a computer science student with a passion for the latest technologies and trends in the field. I am always eager to learn and work on new projects related to software development, microservices, APIs, DevOps and automating scripts.
+
+As a student, I am constantly exploring the latest advancements in computer science and experimenting with new tools and techniques to deepen my knowledge and understanding of the subject matter. I am currently working on several projects related to web application development, automating scripts, and building microservices.
+
+I have a strong foundation in computer science concepts and a natural flair for coding. I am always seeking opportunities to enhance my skills and knowledge by attending seminars, workshops, and online courses related to the latest technologies in computer science.
+
+Aside from my academic pursuits, I enjoy blogging and sharing my experiences and insights about the tech industry with others. I believe that staying engaged with the tech community is essential for keeping up with the latest advancements and building a successful career in the field.
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merwinmathew33&label=Profile%20views&color=0e75b6&style=flat" alt="merwinmathew33" /> </p>
